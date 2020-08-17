@@ -28,11 +28,11 @@ sudo python ip-resolve.py
 
 ### Screenshots ###
 
-![Screenshot at 2020-08-17 11-43-53](https://user-images.githubusercontent.com/69615463/90363269-0145aa80-e080-11ea-8dd7-e7c73a3503ee.png)
+
+![Screenshot at 2020-08-17 11-44-34](https://user-images.githubusercontent.com/69615463/90363467-6dc0a980-e080-11ea-9a8f-da2ec121f84f.png)
+
 <br>
 
 Next
 
-![Screenshot at 2020-08-17 11-44-34](https://user-images.githubusercontent.com/69615463/90363467-6dc0a980-e080-11ea-9a8f-da2ec121f84f.png)
-
-
+![Screenshot at 2020-08-17 11-43-53](https://user-images.githubusercontent.com/69615463/90363269-0145aa80-e080-11ea-8dd7-e7c73a3503ee.png)
