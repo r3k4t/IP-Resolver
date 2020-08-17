@@ -30,7 +30,6 @@ sudo python ip-resolve.py
 
 
 ![Screenshot at 2020-08-17 11-44-34](https://user-images.githubusercontent.com/69615463/90363467-6dc0a980-e080-11ea-9a8f-da2ec121f84f.png)
-
 <br>
 
 Next
